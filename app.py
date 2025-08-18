@@ -14,3 +14,4 @@ def contato():
 @app.route("/about.html") # Configurando a rota do site.
 def about():
     return render_template('about.html')# Aqui retornamos a pagina HTML, que estara na pasta templates
+
