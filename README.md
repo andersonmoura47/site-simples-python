@@ -39,6 +39,10 @@ BOA SORTE, E BOM APRENDIZADO.
 
 **- agora só executar o flask:** `flask run`
 
+**- após instalados:**
+* cmd: cd cd C:\Users\ander\OneDrive\Área de Trabalho\Arquivos\OUTROS ARQUIVOS\Certificados\Desenvolvimento WEB em Python - IBM Skills Build\Site Simples Clone Github\site-simples-python
+* flask run
+
 Se você fizer tudo certo, ira ficar igual a imagem abaixo
 ![Execução do flask](./tutorial/flask_run.png) 
 Agora so entrar na Url (http://127.0.0.1:5000 )
