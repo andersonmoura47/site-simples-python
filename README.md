@@ -31,6 +31,7 @@ BOA SORTE, E BOM APRENDIZADO.
 
 **Após ter instalado, todas as dependencias siga os passo a passso abaixo**
 
+* no cmd configurar primeiro o endereço da pasta que deseja salvar usando comando cd
 * no seu terminal clone o repositorio na pasta que deseja:  ```git clone https://github.com/jeffersonalionco/site-simples-python.git```
 * Após baixar o repositorio entre na pasta: `cd site-simples-python`
 * agora a variavel env: `python -m venv venv`
